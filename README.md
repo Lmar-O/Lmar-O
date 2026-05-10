@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Lmar-O
-- 👀 I just started programming and also just realized I literally don't know anything
-- 🌱 I already took 2 intro Java classes and realized I didn't learn a thing so I'm starting CS50 and wanting to die
-- 💞️ I’m looking to figure out what I'm gonna do with my life
-- 📫 Is there like a way you can DM on here?
+### Hello hello! <img src="https://emojis.slackmojis.com/emojis/images/1643515630/16526/meow_bongo.png?1643515630" width="25"/>
+I'm [**Lmar**](https://lmaroria.com), a software engineer and photographer.
 
-<!---
-Lmar-O/Lmar-O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently working on building Maal, which makes halal personal finance easy to learn for people who keep putting it off.
+
+I love tinkering and figuring out how large-scale systems work to reach millions of people.
+
+Outside of tech stuff, I'm probably behind my camera, trying to level up my personal finance, or just learning about whatever new thing I find cool.
+
+I really want a manual MK5 Supra.
+
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/lmaroria)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/lmar.oria/)
