@@ -1,11 +1,11 @@
 ### Hello hello! <img src="https://emojis.slackmojis.com/emojis/images/1643515630/16526/meow_bongo.png?1643515630" width="25"/>
-I'm [**Lmar**](https://lmaroria.com), a software engineer and photographer.
+I'm [**Lmar**](https://lmaroria.com), a software engineer.
 
 I'm currently working on building Maal, which makes halal personal finance easy to learn for people who keep putting it off.
 
-I love tinkering and figuring out how large-scale systems work to reach millions of people.
+I love tinkering and figuring out how large-scale systems work.
 
-Outside of tech stuff, I'm probably behind my camera, trying to level up my personal finance, or just learning about whatever new thing I find cool.
+Outside of tech stuff, I'm probably behind my camera, trying to level up my personal finance, or just learning about whatever new thing I find cool. Recently I've also been cooking a lot.
 
 I really want a manual MK5 Supra.
 
